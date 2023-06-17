@@ -1,2 +1,13 @@
 //initializing git system
 git init
+
+//cheking git status
+git status
+
+//adding file to git observation
+git add . 
+
+//commiting changes
+git commit -m 'message'
+
+salam sosis
